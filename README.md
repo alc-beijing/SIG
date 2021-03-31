@@ -21,6 +21,9 @@
 - [翻译](https://github.com/alc-beijing/SIG/discussions/categories/翻译相关话题)：Apache 社区有着大量现成的**关于开源治理、开源协议、开源法规以及开源孵化相关的英文文档**，我们希望通过将这些文档翻译成中文，来推动开源文化和经验在中国的传播。
 
 
+- [活动组织](https://github.com/alc-beijing/SIG/discussions/categories/活动组织)：任何关于线下和线上的活动组织（如**技术分享、社区meetup、Hackthon、技能培训**等）的想法和策划方案都可以在上面提出，大家畅所欲言。
+
+
 - [开源项目孵化](https://github.com/alc-beijing/SIG/discussions/categories/开源项目孵化)：待补充
 
 
