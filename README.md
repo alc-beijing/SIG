@@ -1,6 +1,6 @@
-# Apache 中国本土社区建设讨论版 
+# ALC Beijing 讨论版 
 
-本版面将主要用于对ALC Beijing建设的想法讨论，欢迎所有人在[讨论专区](https://github.com/alc-beijing/SIG/discussions)中提出自己的意见。相关任务的链接也会附在相应讨论贴中，并与微信群通知同步，社区参与者可以自行前往认领。
+本版面将主要用于对**Apache 中国本土社区建设**的想法讨论，欢迎所有人在[讨论专区](https://github.com/alc-beijing/SIG/discussions)中提出自己的意见。相关任务的链接也会附在相应讨论贴中，并与微信群通知同步，社区参与者可以自行前往认领。
 
 
 ## 交流分区
@@ -24,7 +24,7 @@
 - [开源项目孵化](https://github.com/alc-beijing/SIG/discussions/categories/开源项目孵化)：待补充
 
 
-- [通用论坛](https://github.com/alc-beijing/SIG/discussions/categories/通用论坛)：用于社区中一般性事务的交流，如新人自我介绍，社区通知等。
+- [通用论坛](https://github.com/alc-beijing/SIG/discussions/categories/通用论坛)：**用于社区中一般性事务的交流**，如新人自我介绍，社区通知等。
 
 ## 行为准则
 
