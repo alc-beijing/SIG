@@ -15,7 +15,7 @@
 - [新媒体运营](https://github.com/alc-beijing/SIG/discussions/categories/新媒体运营)：这一专区主要用以**讨论 Apache 新媒体推广的相关事宜**，大家可以针对新媒体推广的渠道，如技术社区（CSDN、OSCHINA等）、知识社区（如知乎等）、视频社区（如哔哩哔哩、抖音等），以及新媒体宣传文案，或是新媒体合作等多方面事宜进行讨论。
 
 
-- [网站建设](https://github.com/alc-beijing/SIG/discussions/categories/网站建设)：[Apache 中国本土社区网站](https://alc-beijing.github.io/alc-site/)目前仍处于较初级的阶段，**我们需要有前端开发经验的志愿者的协助，来一起将Apache 中文网站建设起来**。任何关于网站建设的想法、提案都欢迎在本区提出。
+- [网站建设](https://github.com/alc-beijing/SIG/discussions/categories/网站建设)：[Apache 中文网站](https://alc-beijing.github.io/alc-site/)目前仍处于较初级的阶段，**我们需要有前端开发经验的志愿者的协助，来一起将Apache 中文网站建设起来**。任何关于网站建设的想法、提案都欢迎在本区提出。
 
 
 - [翻译](https://github.com/alc-beijing/SIG/discussions/categories/翻译相关话题)：Apache 社区有着大量现成的**关于开源治理、开源协议、开源法规以及开源孵化相关的英文文档**，我们希望通过将这些文档翻译成中文，来推动开源文化和经验在中国的传播。
