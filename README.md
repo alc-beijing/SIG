@@ -1,4 +1,4 @@
-# ALC 讨论版 
+# Apache 中国本土社区建设讨论版 
 
 本版面将主要用于对ALC Beijing建设的想法讨论，欢迎所有人在[讨论专区](https://github.com/alc-beijing/SIG/discussions)中提出自己的意见。相关任务的链接也会附在相应讨论贴中，并与微信群通知同步，社区参与者可以自行前往认领。
 
