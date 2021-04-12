@@ -6,9 +6,9 @@
 
 本土社区的建设需要参与者之间的共同协作。通过issue的建立和认领，我们可以更好的进行合作建设。下面分别是**新媒体运营**和**翻译**的issue版面，大家可以点击进去自行浏览认领。欢迎大家提出宝贵意见并贡献！
 
-[新媒体运营与活动策划](https://github.com/alc-beijing/alc-site/issues)：在中国推广开源以及 Apache 文化，助力本土开源建设
+- [新媒体运营与活动策划](https://github.com/alc-beijing/alc-site/issues)：在中国推广开源以及 Apache 文化，助力本土开源建设
 
-[翻译任务](https://github.com/alc-beijing/translation/issues)：Apache官方文档翻译
+- [翻译任务](https://github.com/alc-beijing/translation/issues)：Apache官方文档翻译
 
 ## 交流分区
 
