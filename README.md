@@ -2,6 +2,11 @@
 
 本版面将主要用于对**Apache 中国本土社区建设**的想法讨论，欢迎所有人在[讨论专区](https://github.com/alc-beijing/SIG/discussions)中提出自己的意见。相关任务的链接也会附在相应讨论贴中，并与微信群通知同步，社区参与者可以自行前往认领。
 
+## 任务版
+
+[新媒体运营与活动策划](https://github.com/alc-beijing/alc-site/issues)：在中国推广开源以及 Apache 文化，助力本土开源建设
+
+[翻译任务](https://github.com/alc-beijing/translation/issues)：Apache官方文档翻译
 
 ## 交流分区
 
